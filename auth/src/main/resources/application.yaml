@@ -1,0 +1,7 @@
+server:
+  port: 9999
+  
+spring:
+  data:
+    mongodb:      host: mongodb://localhost:2021
+      database : auth-demo
